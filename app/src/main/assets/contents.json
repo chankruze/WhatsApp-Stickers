@@ -1,0 +1,439 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "animals",
+      "name": "Animals",
+      "publisher": "Chandan Kumar Mandal",
+      "tray_image_file": "tray_Animals.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://geekofia.wordpress.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_animals.webp"
+        },
+        {
+          "image_file": "02_animals.webp"
+        },
+        {
+          "image_file": "03_animals.webp"
+        },
+        {
+          "image_file": "04_animals.webp"
+        },
+        {
+          "image_file": "05_animals.webp"
+        },
+        {
+          "image_file": "06_animals.webp"
+        },
+        {
+          "image_file": "07_animals.webp"
+        },
+        {
+          "image_file": "08_animals.webp"
+        },
+        {
+          "image_file": "09_animals.webp"
+        },
+        {
+          "image_file": "10_animals.webp"
+        },
+        {
+          "image_file": "11_animals.webp"
+        },
+        {
+          "image_file": "12_animals.webp"
+        },
+        {
+          "image_file": "13_animals.webp"
+        },
+        {
+          "image_file": "14_animals.webp"
+        },
+        {
+          "image_file": "15_animals.webp"
+        },
+        {
+          "image_file": "16_animals.webp"
+        },
+        {
+          "image_file": "17_animals.webp"
+        },
+        {
+          "image_file": "18_animals.webp"
+        },
+        {
+          "image_file": "19_animals.webp"
+        },
+        {
+          "image_file": "20_animals.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "cups",
+      "name": "Cuppy",
+      "publisher": "Jane Doe",
+      "tray_image_file": "tray_Cuppy.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Cuppy_smile.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_Cuppy_lol.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_Cuppy_rofl.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_Cuppy_sad.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05_Cuppy_cry.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06_Cuppy_love.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07_Cuppy_hate.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08_Cuppy_lovewithmug.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09_Cuppy_lovewithcookie.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10_Cuppy_hmm.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_Cuppy_upset.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12_Cuppy_angry.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13_Cuppy_curious.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_Cuppy_weird.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15_Cuppy_bluescreen.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16_Cuppy_angry.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17_Cuppy_tired.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18_Cuppy_workhard.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19_Cuppy_shine.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20_Cuppy_disgusting.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21_Cuppy_hi.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22_Cuppy_bye.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23_Cuppy_greentea.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24_Cuppy_phone.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25_Cuppy_battery.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "great_mind",
+      "name": "Great Mind",
+      "publisher": "Chandan Kumar Mandal",
+      "tray_image_file": "tray_Great_Mind.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://geekofia.wordpress.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_great_mind.webp"
+        },
+        {
+          "image_file": "02_great_mind.webp"
+        },
+        {
+          "image_file": "03_great_mind.webp"
+        },
+        {
+          "image_file": "04_great_mind.webp"
+        },
+        {
+          "image_file": "05_great_mind.webp"
+        },
+        {
+          "image_file": "06_great_mind.webp"
+        },
+        {
+          "image_file": "07_great_mind.webp"
+        },
+        {
+          "image_file": "08_great_mind.webp"
+        },
+        {
+          "image_file": "09_great_mind.webp"
+        },
+        {
+          "image_file": "10_great_mind.webp"
+        },
+        {
+          "image_file": "11_great_mind.webp"
+        },
+        {
+          "image_file": "12_great_mind.webp"
+        },
+        {
+          "image_file": "13_great_mind.webp"
+        },
+        {
+          "image_file": "14_great_mind.webp"
+        },
+        {
+          "image_file": "15_great_mind.webp"
+        },
+        {
+          "image_file": "16_great_mind.webp"
+        },
+        {
+          "image_file": "17_great_mind.webp"
+        },
+        {
+          "image_file": "18_great_mind.webp"
+        },
+        {
+          "image_file": "19_great_mind.webp"
+        },
+        {
+          "image_file": "20_great_mind.webp"
+        },
+        {
+          "image_file": "21_great_mind.webp"
+        },
+        {
+          "image_file": "22_great_mind.webp"
+        },
+        {
+          "image_file": "23_great_mind.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "gurl",
+      "name": "Gurl",
+      "publisher": "Chandan Kumar Mandal",
+      "tray_image_file": "tray_Gurl.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://geekofia.wordpress.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_gurl.webp"
+        },
+        {
+          "image_file": "02_gurl.webp"
+        },
+        {
+          "image_file": "03_gurl.webp"
+        },
+        {
+          "image_file": "04_gurl.webp"
+        },
+        {
+          "image_file": "05_gurl.webp"
+        },
+        {
+          "image_file": "06_gurl.webp"
+        },
+        {
+          "image_file": "07_gurl.webp"
+        },
+        {
+          "image_file": "08_gurl.webp"
+        },
+        {
+          "image_file": "09_gurl.webp"
+        },
+        {
+          "image_file": "10_gurl.webp"
+        },
+        {
+          "image_file": "11_gurl.webp"
+        },
+        {
+          "image_file": "12_gurl.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "misc",
+      "name": "Miscellaneous",
+      "publisher": "Chandan Kumar Mandal",
+      "tray_image_file": "tray_Miscellaneous.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://geekofia.wordpress.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_misc.webp"
+        },
+        {
+          "image_file": "02_misc.webp"
+        },
+        {
+          "image_file": "03_misc.webp"
+        },
+        {
+          "image_file": "04_misc.webp"
+        },
+        {
+          "image_file": "05_misc.webp"
+        },
+        {
+          "image_file": "06_misc.webp"
+        },
+        {
+          "image_file": "07_misc.webp"
+        },
+        {
+          "image_file": "08_misc.webp"
+        },
+        {
+          "image_file": "09_misc.webp"
+        },
+        {
+          "image_file": "10_misc.webp"
+        },
+        {
+          "image_file": "11_misc.webp"
+        },
+        {
+          "image_file": "12_misc.webp"
+        },
+        {
+          "image_file": "13_misc.webp"
+        },
+        {
+          "image_file": "14_misc.webp"
+        },
+        {
+          "image_file": "15_misc.webp"
+        },
+        {
+          "image_file": "16_misc.webp"
+        },
+        {
+          "image_file": "17_misc.webp"
+        },
+        {
+          "image_file": "18_misc.webp"
+        },
+        {
+          "image_file": "19_misc.webp"
+        },
+        {
+          "image_file": "20_misc.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "pewdiepie",
+      "name": "PewDiePie",
+      "publisher": "Chandan Kumar Mandal",
+      "tray_image_file": "tray_PewDiePie.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://geekofia.wordpress.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_pew.webp"
+        },
+        {
+          "image_file": "02_pew.webp"
+        },
+        {
+          "image_file": "03_pew.webp"
+        },
+        {
+          "image_file": "04_pew.webp"
+        },
+        {
+          "image_file": "05_pew.webp"
+        },
+        {
+          "image_file": "06_pew.webp"
+        },
+        {
+          "image_file": "07_pew.webp"
+        },
+        {
+          "image_file": "08_pew.webp"
+        },
+        {
+          "image_file": "09_pew.webp"
+        },
+        {
+          "image_file": "10_pew.webp"
+        },
+        {
+          "image_file": "11_pew.webp"
+        },
+        {
+          "image_file": "12_pew.webp"
+        }
+      ]
+    }
+  ]
+}
