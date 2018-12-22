@@ -18,7 +18,7 @@ We recommend you refer to the FAQ at https://faq.whatsapp.com/general/26000226 f
   affordance to add it to WhatsApp (do not try to create "add all packs"
   operations).
 * Each sticker pack must have a minimum of 3 stickers and a maximum of 30
-  stickers
+  stickers (you can include more but whatsapp won't allow that packs to add)
 * Stickers must be exactly 512 x 512 pixels
 * Stickers will render on a variety of backgrounds, white, black, colored, patterned, etc. Test your sticker art on a variety of backgrounds. For this reason, we recommend you add a 8px #FFFFFF stroke to the outside of each sticker. See the sample PSD referenced at https://faq.whatsapp.com/general/26000226 for more details.
 * Stickers must be in the [WebP format](https://developers.google.com/speed/webp). Currently, animated WebP or animated stickers are not supported. See the section [Converting to WebP](#converting-to-webp) below for information on how to create WebP files.

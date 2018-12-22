@@ -3,279 +3,116 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "animals",
-      "name": "Animals",
-      "publisher": "Chandan Kumar Mandal",
-      "tray_image_file": "tray_Animals.png",
+      "identifier": "agent007",
+      "name": "Agent 007",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Agent007.png",
       "publisher_email":"chankruze@gmail.com",
-      "publisher_website": "https://geekofia.wordpress.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
       "stickers": [
         {
-          "image_file": "01_animals.webp"
+          "image_file": "01_agent007.webp"
         },
         {
-          "image_file": "02_animals.webp"
+          "image_file": "02_agent007.webp"
         },
         {
-          "image_file": "03_animals.webp"
+          "image_file": "03_agent007.webp"
         },
         {
-          "image_file": "04_animals.webp"
+          "image_file": "04_agent007.webp"
         },
         {
-          "image_file": "05_animals.webp"
+          "image_file": "05_agent007.webp"
         },
         {
-          "image_file": "06_animals.webp"
+          "image_file": "06_agent007.webp"
         },
         {
-          "image_file": "07_animals.webp"
+          "image_file": "07_agent007.webp"
         },
         {
-          "image_file": "08_animals.webp"
+          "image_file": "08_agent007.webp"
         },
         {
-          "image_file": "09_animals.webp"
+          "image_file": "09_agent007.webp"
         },
         {
-          "image_file": "10_animals.webp"
+          "image_file": "10_agent007.webp"
         },
         {
-          "image_file": "11_animals.webp"
+          "image_file": "11_agent007.webp"
         },
         {
-          "image_file": "12_animals.webp"
+          "image_file": "12_agent007.webp"
         },
         {
-          "image_file": "13_animals.webp"
+          "image_file": "13_agent007.webp"
         },
         {
-          "image_file": "14_animals.webp"
+          "image_file": "14_agent007.webp"
         },
         {
-          "image_file": "15_animals.webp"
+          "image_file": "15_agent007.webp"
         },
         {
-          "image_file": "16_animals.webp"
+          "image_file": "16_agent007.webp"
         },
         {
-          "image_file": "17_animals.webp"
+          "image_file": "17_agent007.webp"
         },
         {
-          "image_file": "18_animals.webp"
+          "image_file": "18_agent007.webp"
         },
         {
-          "image_file": "19_animals.webp"
+          "image_file": "19_agent007.webp"
         },
         {
-          "image_file": "20_animals.webp"
-        }
-      ]
-    },
-    {
-      "identifier": "cups",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
-      "publisher_email":"",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "01_Cuppy_smile.webp",
-          "emojis": ["☕","🙂"]
-        },
-        {
-          "image_file": "02_Cuppy_lol.webp",
-          "emojis": ["😄","😀"]
-        },
-        {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": ["😆","😂"]
-        },
-        {
-          "image_file": "04_Cuppy_sad.webp",
-          "emojis": ["😩","😰"]
-        },
-        {
-          "image_file": "05_Cuppy_cry.webp",
-          "emojis": ["😭","💧"]
-        },
-        {
-          "image_file": "06_Cuppy_love.webp",
-          "emojis": ["😍","♥"]
-        },
-        {
-          "image_file": "07_Cuppy_hate.webp",
-          "emojis": ["💔","👎"]
-        },
-        {
-          "image_file": "08_Cuppy_lovewithmug.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "10_Cuppy_hmm.webp",
-          "emojis": ["🤔","😐"]
-        },
-        {
-          "image_file": "11_Cuppy_upset.webp",
-          "emojis": ["😱","😵"]
-        },
-        {
-          "image_file": "12_Cuppy_angry.webp",
-          "emojis": ["😡","😠"]
-        },
-        {
-          "image_file": "13_Cuppy_curious.webp",
-          "emojis": ["❓","🤔"]
-        },
-        {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
-        },
-        {
-          "image_file": "15_Cuppy_bluescreen.webp",
-          "emojis": ["💻","😩"]
-        },
-        {
-          "image_file": "16_Cuppy_angry.webp",
-          "emojis": ["😡","😤"]
-        },
-        {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "18_Cuppy_workhard.webp",
-          "emojis": ["💻","🌃"]
-        },
-        {
-          "image_file": "19_Cuppy_shine.webp",
-          "emojis": ["🎉","✨"]
-        },
-        {
-          "image_file": "20_Cuppy_disgusting.webp",
-          "emojis": ["🤮","👎"]
-        },
-        {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
-        },
-        {
-          "image_file": "22_Cuppy_bye.webp",
-          "emojis": ["🖐","👋"]
-        },
-        {
-          "image_file": "23_Cuppy_greentea.webp",
-          "emojis": ["🍵","😌"]
-        },
-        {
-          "image_file": "24_Cuppy_phone.webp",
-          "emojis": ["📱","😦"]
-        },
-        {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
-        }
-      ]
-    },
-    {
-      "identifier": "great_mind",
-      "name": "Great Mind",
-      "publisher": "Chandan Kumar Mandal",
-      "tray_image_file": "tray_Great_Mind.png",
-      "publisher_email":"chankruze@gmail.com",
-      "publisher_website": "https://geekofia.wordpress.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "01_great_mind.webp"
-        },
-        {
-          "image_file": "02_great_mind.webp"
-        },
-        {
-          "image_file": "03_great_mind.webp"
-        },
-        {
-          "image_file": "04_great_mind.webp"
-        },
-        {
-          "image_file": "05_great_mind.webp"
-        },
-        {
-          "image_file": "06_great_mind.webp"
-        },
-        {
-          "image_file": "07_great_mind.webp"
-        },
-        {
-          "image_file": "08_great_mind.webp"
-        },
-        {
-          "image_file": "09_great_mind.webp"
-        },
-        {
-          "image_file": "10_great_mind.webp"
-        },
-        {
-          "image_file": "11_great_mind.webp"
-        },
-        {
-          "image_file": "12_great_mind.webp"
-        },
-        {
-          "image_file": "13_great_mind.webp"
+          "image_file": "20_agent007.webp"
         },
         {
-          "image_file": "14_great_mind.webp"
+          "image_file": "21_agent007.webp"
         },
         {
-          "image_file": "15_great_mind.webp"
+          "image_file": "22_agent007.webp"
         },
         {
-          "image_file": "16_great_mind.webp"
+          "image_file": "23_agent007.webp"
         },
         {
-          "image_file": "17_great_mind.webp"
+          "image_file": "24_agent007.webp"
         },
         {
-          "image_file": "18_great_mind.webp"
+          "image_file": "25_agent007.webp"
         },
         {
-          "image_file": "19_great_mind.webp"
+          "image_file": "26_agent007.webp"
         },
         {
-          "image_file": "20_great_mind.webp"
+          "image_file": "27_agent007.webp"
         },
         {
-          "image_file": "21_great_mind.webp"
+          "image_file": "28_agent007.webp"
         },
         {
-          "image_file": "22_great_mind.webp"
+          "image_file": "29_agent007.webp"
         },
         {
-          "image_file": "23_great_mind.webp"
+          "image_file": "30_agent007.webp"
         }
       ]
     },
     {
       "identifier": "gurl",
       "name": "Gurl",
-      "publisher": "Chandan Kumar Mandal",
+      "publisher": "chankruze",
       "tray_image_file": "tray_Gurl.png",
       "publisher_email":"chankruze@gmail.com",
-      "publisher_website": "https://geekofia.wordpress.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
       "stickers": [
         {
           "image_file": "01_gurl.webp"
@@ -312,90 +149,111 @@
         },
         {
           "image_file": "12_gurl.webp"
+        },
+        {
+          "image_file": "13_gurl.webp"
+        },
+        {
+          "image_file": "14_gurl.webp"
+        },
+        {
+          "image_file": "15_gurl.webp"
+        },
+        {
+          "image_file": "16_gurl.webp"
+        },
+        {
+          "image_file": "17_gurl.webp"
+        },
+        {
+          "image_file": "18_gurl.webp"
+        },
+        {
+          "image_file": "19_gurl.webp"
+        },
+        {
+          "image_file": "20_gurl.webp"
+        },
+        {
+          "image_file": "21_gurl.webp"
+        },
+        {
+          "image_file": "22_gurl.webp"
+        },
+        {
+          "image_file": "23_gurl.webp"
+        },
+        {
+          "image_file": "24_gurl.webp"
+        },
+        {
+          "image_file": "25_gurl.webp"
+        },
+        {
+          "image_file": "26_gurl.webp"
+        },
+        {
+          "image_file": "27_gurl.webp"
+        },
+        {
+          "image_file": "28_gurl.webp"
+        },
+        {
+          "image_file": "29_gurl.webp"
+        },
+        {
+          "image_file": "30_gurl.webp"
         }
       ]
     },
     {
-      "identifier": "misc",
-      "name": "Miscellaneous",
-      "publisher": "Chandan Kumar Mandal",
-      "tray_image_file": "tray_Miscellaneous.png",
+      "identifier": "gurl2",
+      "name": "Gurl2",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Gurl2.png",
       "publisher_email":"chankruze@gmail.com",
-      "publisher_website": "https://geekofia.wordpress.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
       "stickers": [
         {
-          "image_file": "01_misc.webp"
+          "image_file": "31_gurl.webp"
         },
         {
-          "image_file": "02_misc.webp"
+          "image_file": "32_gurl.webp"
         },
         {
-          "image_file": "03_misc.webp"
+          "image_file": "33_gurl.webp"
         },
         {
-          "image_file": "04_misc.webp"
+          "image_file": "34_gurl.webp"
         },
         {
-          "image_file": "05_misc.webp"
+          "image_file": "35_gurl.webp"
         },
         {
-          "image_file": "06_misc.webp"
+          "image_file": "36_gurl.webp"
         },
         {
-          "image_file": "07_misc.webp"
+          "image_file": "37_gurl.webp"
         },
         {
-          "image_file": "08_misc.webp"
+          "image_file": "38_gurl.webp"
         },
         {
-          "image_file": "09_misc.webp"
-        },
-        {
-          "image_file": "10_misc.webp"
-        },
-        {
-          "image_file": "11_misc.webp"
-        },
-        {
-          "image_file": "12_misc.webp"
-        },
-        {
-          "image_file": "13_misc.webp"
-        },
-        {
-          "image_file": "14_misc.webp"
-        },
-        {
-          "image_file": "15_misc.webp"
-        },
-        {
-          "image_file": "16_misc.webp"
-        },
-        {
-          "image_file": "17_misc.webp"
-        },
-        {
-          "image_file": "18_misc.webp"
-        },
-        {
-          "image_file": "19_misc.webp"
-        },
-        {
-          "image_file": "20_misc.webp"
+          "image_file": "39_gurl.webp"
         }
       ]
     },
     {
       "identifier": "pewdiepie",
       "name": "PewDiePie",
-      "publisher": "Chandan Kumar Mandal",
+      "publisher": "chankruze",
       "tray_image_file": "tray_PewDiePie.png",
       "publisher_email":"chankruze@gmail.com",
-      "publisher_website": "https://geekofia.wordpress.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
       "stickers": [
         {
           "image_file": "01_pew.webp"
@@ -432,6 +290,426 @@
         },
         {
           "image_file": "12_pew.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "snowden",
+      "name": "Snowden",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Snowden.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers/",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "01_snowden.webp"
+        },
+        {
+          "image_file": "02_snowden.webp"
+        },
+        {
+          "image_file": "03_snowden.webp"
+        },
+        {
+          "image_file": "04_snowden.webp"
+        },
+        {
+          "image_file": "05_snowden.webp"
+        },
+        {
+          "image_file": "06_snowden.webp"
+        },
+        {
+          "image_file": "07_snowden.webp"
+        },
+        {
+          "image_file": "08_snowden.webp"
+        },
+        {
+          "image_file": "09_snowden.webp"
+        },
+        {
+          "image_file": "10_snowden.webp"
+        },
+        {
+          "image_file": "11_snowden.webp"
+        },
+        {
+          "image_file": "12_snowden.webp"
+        },
+        {
+          "image_file": "13_snowden.webp"
+        },
+        {
+          "image_file": "14_snowden.webp"
+        },
+        {
+          "image_file": "15_snowden.webp"
+        },
+        {
+          "image_file": "16_snowden.webp"
+        },
+        {
+          "image_file": "17_snowden.webp"
+        },
+        {
+          "image_file": "18_snowden.webp"
+        },
+        {
+          "image_file": "19_snowden.webp"
+        },
+        {
+          "image_file": "20_snowden.webp"
+        },
+        {
+          "image_file": "21_snowden.webp"
+        },
+        {
+          "image_file": "22_snowden.webp"
+        },
+        {
+          "image_file": "23_snowden.webp"
+        },
+        {
+          "image_file": "24_snowden.webp"
+        },
+        {
+          "image_file": "25_snowden.webp"
+        },
+        {
+          "image_file": "26_snowden.webp"
+        },
+        {
+          "image_file": "27_snowden.webp"
+        },
+        {
+          "image_file": "28_snowden.webp"
+        },
+        {
+          "image_file": "29_snowden.webp"
+        },
+        {
+          "image_file": "30_snowden.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "snowden2",
+      "name": "Snowden2",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Snowden2.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "31_snowden.webp"
+        },
+        {
+          "image_file": "32_snowden.webp"
+        },
+        {
+          "image_file": "33_snowden.webp"
+        },
+        {
+          "image_file": "34_snowden.webp"
+        },
+        {
+          "image_file": "35_snowden.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "kesslan",
+      "name": "Kesslan",
+      "publisher": "FUZZTONE",
+      "tray_image_file": "tray_Kasslen.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers/",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "01_kasslen.webp"
+        },
+        {
+          "image_file": "02_kasslen.webp"
+        },
+        {
+          "image_file": "03_kasslen.webp"
+        },
+        {
+          "image_file": "04_kasslen.webp"
+        },
+        {
+          "image_file": "05_kasslen.webp"
+        },
+        {
+          "image_file": "06_kasslen.webp"
+        },
+        {
+          "image_file": "07_kasslen.webp"
+        },
+        {
+          "image_file": "08_kasslen.webp"
+        },
+        {
+          "image_file": "09_kasslen.webp"
+        },
+        {
+          "image_file": "10_kasslen.webp"
+        },
+        {
+          "image_file": "11_kasslen.webp"
+        },
+        {
+          "image_file": "12_kasslen.webp"
+        },
+        {
+          "image_file": "13_kasslen.webp"
+        },
+        {
+          "image_file": "14_kasslen.webp"
+        },
+        {
+          "image_file": "15_kasslen.webp"
+        },
+        {
+          "image_file": "16_kasslen.webp"
+        },
+        {
+          "image_file": "17_kasslen.webp"
+        },
+        {
+          "image_file": "18_kasslen.webp"
+        },
+        {
+          "image_file": "19_kasslen.webp"
+        },
+        {
+          "image_file": "20_kasslen.webp"
+        },
+        {
+          "image_file": "21_kasslen.webp"
+        },
+        {
+          "image_file": "22_kasslen.webp"
+        },
+        {
+          "image_file": "23_kasslen.webp"
+        },
+        {
+          "image_file": "24_kasslen.webp"
+        },
+        {
+          "image_file": "25_kasslen.webp"
+        },
+        {
+          "image_file": "26_kasslen.webp"
+        },
+        {
+          "image_file": "27_kasslen.webp"
+        },
+        {
+          "image_file": "28_kasslen.webp"
+        },
+        {
+          "image_file": "29_kasslen.webp"
+        },
+        {
+          "image_file": "30_kasslen.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "kesslan2",
+      "name": "Kesslan2",
+      "publisher": "FUZZTONE",
+      "tray_image_file": "tray_Kasslen2.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers/",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "31_kasslen.webp"
+        },
+        {
+          "image_file": "32_kasslen.webp"
+        },
+        {
+          "image_file": "33_kasslen.webp"
+        },
+        {
+          "image_file": "34_kasslen.webp"
+        },
+        {
+          "image_file": "35_kasslen.webp"
+        },
+        {
+          "image_file": "36_kasslen.webp"
+        },
+        {
+          "image_file": "37_kasslen.webp"
+        },
+        {
+          "image_file": "38_kasslen.webp"
+        },
+        {
+          "image_file": "39_kasslen.webp"
+        },
+        {
+          "image_file": "40_kasslen.webp"
+        },
+        {
+          "image_file": "41_kasslen.webp"
+        },
+        {
+          "image_file": "42_kasslen.webp"
+        },
+        {
+          "image_file": "43_kasslen.webp"
+        },
+        {
+          "image_file": "44_kasslen.webp"
+        },
+        {
+          "image_file": "45_kasslen.webp"
+        },
+        {
+          "image_file": "46_kasslen.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "tom-n-jerry",
+      "name": "Tom & Jerry",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Tom-n-Jerry.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers/",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "01_tj.webp"
+        },
+        {
+          "image_file": "02_tj.webp"
+        },
+        {
+          "image_file": "03_tj.webp"
+        },
+        {
+          "image_file": "04_tj.webp"
+        },
+        {
+          "image_file": "05_tj.webp"
+        },
+        {
+          "image_file": "06_tj.webp"
+        },
+        {
+          "image_file": "07_tj.webp"
+        },
+        {
+          "image_file": "08_tj.webp"
+        },
+        {
+          "image_file": "09_tj.webp"
+        },
+        {
+          "image_file": "10_tj.webp"
+        },
+        {
+          "image_file": "11_tj.webp"
+        },
+        {
+          "image_file": "12_tj.webp"
+        },
+        {
+          "image_file": "13_tj.webp"
+        },
+        {
+          "image_file": "14_tj.webp"
+        },
+        {
+          "image_file": "15_tj.webp"
+        },
+        {
+          "image_file": "16_tj.webp"
+        },
+        {
+          "image_file": "17_tj.webp"
+        },
+        {
+          "image_file": "18_tj.webp"
+        },
+        {
+          "image_file": "19_tj.webp"
+        },
+        {
+          "image_file": "20_tj.webp"
+        },
+        {
+          "image_file": "21_tj.webp"
+        },
+        {
+          "image_file": "22_tj.webp"
+        },
+        {
+          "image_file": "23_tj.webp"
+        },
+        {
+          "image_file": "24_tj.webp"
+        },
+        {
+          "image_file": "25_tj.webp"
+        },
+        {
+          "image_file": "26_tj.webp"
+        },
+        {
+          "image_file": "27_tj.webp"
+        },
+        {
+          "image_file": "28_tj.webp"
+        },
+        {
+          "image_file": "29_tj.webp"
+        },
+        {
+          "image_file": "30_tj.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "tom-n-jerry2",
+      "name": "Tom & Jerry 2",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Tom-n-Jerry2.png",
+      "publisher_email":"chankruze@gmail.com",
+      "publisher_website": "https://chankruze.github.io/WhatsApp-Stickers/",
+      "privacy_policy_website": "https://chankruze.github.io/WhatsApp-Stickers/policy",
+      "license_agreement_website": "https://github.com/chankruze/WhatsApp-Stickers/blob/master/LICENSE",
+      "stickers": [
+        {
+          "image_file": "31_tj.webp"
+        },
+        {
+          "image_file": "32_tj.webp"
+        },
+        {
+          "image_file": "33_tj.webp"
+        },
+        {
+          "image_file": "34_tj.webp"
+        },
+        {
+          "image_file": "35_tj.webp"
         }
       ]
     }
