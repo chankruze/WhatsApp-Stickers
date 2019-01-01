@@ -107,15 +107,3 @@ $('.scrooldown a').bind('click', function () {
     }, 1500, 'easeInOutExpo');
     event.preventDefault();
 });
-
-
-
-
-
-
-
-
-
-
-
-
